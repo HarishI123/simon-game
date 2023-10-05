@@ -2,6 +2,7 @@ body {
   text-align: center;
   background: rgb(10, 129, 255);
   background: linear-gradient(0deg, rgba(10, 129, 255, 1) 0%, rgba(1, 31, 63, 1) 88%);
+  height: 89vh;
   /* background-color: #011F3F; */
 }
 
